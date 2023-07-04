@@ -9,6 +9,42 @@
  */
 
 {
+    "blog/blog-post": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "vue-js-microfrontend/blog/blog-post",
+        "config": {
+            "lakinduhewa.vue-js-microfrontend/envs/my-vue-env": {},
+            "teambit.envs/envs": {
+                "env": "lakinduhewa.vue-js-microfrontend/envs/my-vue-env"
+            }
+        }
+    },
+    "blog/blog-posts": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "vue-js-microfrontend/blog/blog-posts",
+        "config": {
+            "lakinduhewa.vue-js-microfrontend/envs/my-vue-env": {},
+            "teambit.envs/envs": {
+                "env": "lakinduhewa.vue-js-microfrontend/envs/my-vue-env"
+            }
+        }
+    },
+    "blog/use-get-posts": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "vue-js-microfrontend/blog/use-get-posts",
+        "config": {
+            "lakinduhewa.vue-js-microfrontend/envs/my-node-env": {},
+            "teambit.envs/envs": {
+                "env": "lakinduhewa.vue-js-microfrontend/envs/my-node-env"
+            }
+        }
+    },
     "envs/my-node-env": {
         "scope": "",
         "version": "",
