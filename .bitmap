@@ -9,6 +9,18 @@
  */
 
 {
+    "apps/microfrontend-consumer": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "vue-js-microfrontend/apps/microfrontend-consumer",
+        "config": {
+            "lakinduhewa.vue-js-microfrontend/envs/my-vue-env": {},
+            "teambit.envs/envs": {
+                "env": "lakinduhewa.vue-js-microfrontend/envs/my-vue-env"
+            }
+        }
+    },
     "blog/blog-post": {
         "scope": "",
         "version": "",

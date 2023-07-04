@@ -44,6 +44,8 @@
         "@teambit/defender.prettier-formatter": "0.0.6",
         "@teambit/dependencies.modules.packages-excluder": "0.0.70",
         "@teambit/node.node": "^0.1.9",
+        "@teambit/react.react-env": "^0.1.8",
+        "@teambit/typescript.typescript-compiler": "^1.0.0",
         "@teambit/vue.dev-services.compiler.vue-compiler": "0.0.11",
         "@teambit/vue.dev-services.linter.vue-eslint-config": "0.0.2",
         "@teambit/vue.dev-services.preview.vue-docs-template": "0.0.3",
@@ -78,5 +80,6 @@
       "lakinduhewa.vue-js-microfrontend/envs/my-vue-env",
       "lakinduhewa.vue-js-microfrontend/envs/my-node-env"
     ]
-  }
+  },
+  "lakinduhewa.vue-js-microfrontend/apps/microfrontend-consumer": {}
 }
